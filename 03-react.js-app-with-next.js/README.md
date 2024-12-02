@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# React Application with Next.js, Local Postgres database and Docker
+
+## Table Of Contents
+
+# Project Description
+
+- This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app), Local Postgres database and Docker.
 
 ## Getting Started
 
