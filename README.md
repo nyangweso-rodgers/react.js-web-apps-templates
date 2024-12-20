@@ -10,4 +10,16 @@ In addition to React setups, the repository includes configurations for integrat
 
 Whether you're just starting with React or building full-stack, containerized applications, this repository provides a clear and structured starting point. Additional tools, templates, and configurations may be added over time to expand its utility.
 
+# Technologies Used
+
+1. Node.js (JavaScript runtime)
+2. Express (Web framework)
+3. PostgreSQL (Database)
+4. JSON Web Token (JWT) (Authentication)
+5. Body-Parser (Parsing JSON request bodies)
+
+# Installation
+
+# Usage
+
 # Resources and Further Reading

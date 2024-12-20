@@ -1,6 +1,7 @@
 import Image from "next/image";
-import styles from "./page.module.css";
-import ToDoList from "./common/components/to-do-list/page";
+import "bootstrap/dist/css/bootstrap.css";
+import styles from "./styles/page.module.css";
+import ToDoList from "./components/to-do-list/page";
 
 export default function Home() {
   return (
